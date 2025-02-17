@@ -2,7 +2,15 @@ body{
    background-color:gray;
   }
 h1{
-  border-color:1px solid red;
+  border:1px solid red;
   background-color:black;
   color:white;
+  text-align:center;
+}
+
+p{
+ 
+  background-color:black;
+  color:yellow;
+  text-align:left;
 }
